@@ -1,4 +1,4 @@
-# Privacy Policy for GenDash
+# Privacy Policy for GenDash (Version française ci-dessous)
 
 **Last Updated: April 27, 2026**
 
@@ -21,3 +21,27 @@ Since no data is collected by the developer, you have total control over your in
 
 ### 6. Contact
 For any questions regarding this policy, please contact support through the GenDash GitHub repository: https://github.com/marcoue/GenDash-Support/
+
+
+# Politique de confidentialité de GenDash
+**Dernière mise à jour :** 27 avril 2026
+
+Cette politique de confidentialité explique comment GenDash traite vos informations.
+
+## 1. Aucune collecte de données
+GenDash est une application locale avant tout (*local-first*). Nous ne collectons, ne stockons, ni ne transmettons de données personnelles, de télémétrie de génératrice ou d'informations financières vers des serveurs externes.
+
+## 2. Stockage des données
+Toutes les données saisies dans l'application, y compris les niveaux de carburant, les journaux d'entretien et l'état de la génératrice, sont stockées localement sur votre appareil. Si vous choisissez d'utiliser l'intégration Home Assistant, ces données sont envoyées uniquement à votre propre instance Home Assistant auto-hébergée via votre réseau local.
+
+## 3. Achats intégrés
+Toutes les transactions sont traitées par l'App Store d'Apple. Nous n'avons pas accès à vos informations de carte de crédit, à vos coordonnées bancaires ou à votre adresse de facturation.
+
+## 4. Services tiers
+L'application n'utilise aucun service tiers d'analyse, de suivi ou de publicité.
+
+## 5. Vos droits
+Puisqu'aucune donnée n'est collectée par le développeur, vous avez un contrôle total sur vos informations. La suppression de l'application supprimera définitivement toutes les données locales qui y sont associées.
+
+## 6. Contact
+Pour toute question concernant cette politique, veuillez contacter le support via le répertoire GitHub de GenDash : https://github.com/marcoue/GenDash-Support/
