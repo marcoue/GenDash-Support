@@ -20,7 +20,7 @@ As a developer based in Quebec, I am committed to protecting your personal infor
 ## 5. Contact Information
 If you have any questions about this policy, you can contact:
 Marc Ouellet  
-[Your Email Address]
+gendash.support@gmail.com
 
 # Politique de confidentialité pour GenDash
 
@@ -44,4 +44,4 @@ En tant que développeur basé au Québec, je m'engage à protéger vos renseign
 ## 5. Coordonnées
 Si vous avez des questions concernant cette politique, vous pouvez contacter :
 Marc Ouellet  
-[Votre adresse courriel]
+gendash.support@gmail.com
