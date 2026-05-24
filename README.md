@@ -1,6 +1,6 @@
 GenDash: Smart Generator Monitor
 
-https://apps.apple.com/app/gendash/id6762421538
+<a href="https://apps.apple.com/us/app/gendash/id6762421538" target="_blank" rel="noopener noreferrer">GenDash on the App Store</a>
 
 Real-time fuel and battery tracking, load monitoring, and time-sensitive alerts.
 
