@@ -1,5 +1,7 @@
 GenDash: Smart Generator Monitor
 
+https://apps.apple.com/app/gendash/id6762421538
+
 Real-time fuel and battery tracking, load monitoring, and time-sensitive alerts.
 
 Welcome to GenDash, your ultimate generator command center. Designed for power outages, severe storms, and off-grid living, GenDash answers the single most important question when you're running on backup power:
