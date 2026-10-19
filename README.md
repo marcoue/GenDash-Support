@@ -49,4 +49,4 @@ Whether you're managing a massive 22kW standby unit, a portable inverter for the
 
 Disclaimer: GenDash is an independent application. All product names, logos, and brands are property of their respective owners. Use of these names does not imply endorsement or affiliation.
 
-You can also find the user manual here: [https://gendash.app/](https://gendash.app/)
+You can also find the user manual here: [https://dashapps.app/gendash/](https://dashapps.app/gendash/)
